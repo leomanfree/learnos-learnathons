@@ -11,9 +11,6 @@ XP systems, and Media Protocols created by the community.
 
 It is not a finished product — it is a living, breathing experiment.
 
-[![📘 Notion – Learn Hub](https://img.shields.io/badge/📘_Notion-Learn_Hub-blue)](https://deserted-ladybug-896.notion.site/Learn-Hub-Drop-Center-1c9e55b86537806a9cb5cfcaee694987?pvs=74)  
-[![🗃️ Notion – Learnathon Archive](https://img.shields.io/badge/🗃️_Learnathon_Archive-yellow)](https://deserted-ladybug-896.notion.site/Learnathon-Archive-1cfe55b86537808788f5fefad261b8c8)
-
 ---
 
 ## 🗺️ Navigation
