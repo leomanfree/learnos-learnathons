@@ -22,7 +22,7 @@ It is not a finished product — it is a living, breathing experiment.
 > [Notion Learnathon Archive](https://deserted-ladybug-896.notion.site/Learnathon-Archive-1cfe55b86537808788f5fefad261b8c8)
 
 > 🛠️ **Backend – Protocol Layer:**  
-> This GitHub repository — templates, XP quests, logs, future dApps, and coordination rituals.
+> This GitHub repository — templates, XP quests, logs, future **Learn-to-Earn dApps**, and coordination rituals.
 
 ---
 
