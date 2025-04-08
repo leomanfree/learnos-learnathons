@@ -4,8 +4,14 @@ Welcome to the **LearnOS Open Archive** — a permissionless, open-source knowle
 
 Born inside the **Network School**, this archive documents the earliest Learnathons, XP systems, and Media Protocols created by the community. It is not a finished product — it is a living, breathing experiment.
 
-> 📍 **Frontend:** [Notion Learn Hub – Drop Center](https://deserted-ladybug-896.notion.site/Learn-Hub-Drop-Center-1c9e55b86537806a9cb5cfcaee694987?pvs=74)  
-> 🛠️ **Backend:** This GitHub repository – source of truth, templates, and archives
+> 📍 **Frontend – Active Drops:**  
+> [Notion Learn Hub – Drop Center](https://deserted-ladybug-896.notion.site/Learn-Hub-Drop-Center-1c9e55b86537806a9cb5cfcaee694987?pvs=74)
+
+> 🗃️ **Public Record – Learnathon Archive:**  
+> [Notion Learnathon Archive](https://deserted-ladybug-896.notion.site/Learnathon-Archive-1cfe55b86537808788f5fefad261b8c8)
+
+> 🛠️ **Backend – Open Source Protocol Layer:**  
+> This GitHub repository — templates, XP quests, logs, and protocol design.
 
 ---
 
