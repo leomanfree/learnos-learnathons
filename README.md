@@ -59,5 +59,4 @@ See [`contribute.md`](./contribute.md) for guidelines on how to:
 Made with ❤️ & ⚔️ by permissionless learners everywhere.
 ---
 
-Made with ❤️ & ⚔️ by permissionless learners everywhere.  
 <br>Curated by [@leomanfree](https://x.com/leomanfree)
