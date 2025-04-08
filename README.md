@@ -57,3 +57,4 @@ See [`contribute.md`](./contribute.md) for guidelines on how to:
 ---
 
 Made with ❤️ & ⚔️ by permissionless learners everywhere.
+curated by @leomanfree | https://leomanfree.xyz | X: @leomanfrini | TG: @leomanfreee
