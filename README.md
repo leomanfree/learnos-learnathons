@@ -1,3 +1,6 @@
+[![📘 Notion – Learn Hub](https://img.shields.io/badge/📘_Notion-Learn_Hub-blue)](https://deserted-ladybug-896.notion.site/Learn-Hub-Drop-Center-1c9e55b86537806a9cb5cfcaee694987?pvs=74)
+[![🗃️ Notion – Learnathon Archive](https://img.shields.io/badge/🗃️_Learnathon_Archive-yellow)](https://deserted-ladybug-896.notion.site/Learnathon-Archive-1cfe55b86537808788f5fefad261b8c8)
+
 # 📚 LearnOS – Open Archive
 
 Welcome to the **LearnOS Open Archive** — a permissionless, open-source knowledge base designed for sovereign learners, memetic builders, and coordination hackers.
