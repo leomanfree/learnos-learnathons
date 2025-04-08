@@ -11,7 +11,7 @@ Born inside the **Network School**, this archive documents the earliest Learnath
 > [Notion Learnathon Archive](https://deserted-ladybug-896.notion.site/Learnathon-Archive-1cfe55b86537808788f5fefad261b8c8)
 
 > 🛠️ **Backend – Open Source Protocol Layer:**  
-> This GitHub repository — templates, XP quests, logs, and protocol design.
+> This GitHub repository — templates, XP quests, logs, futre dApps, and protocol design.
 
 ---
 
