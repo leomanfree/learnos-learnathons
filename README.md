@@ -2,22 +2,31 @@
 
 Welcome to the **LearnOS Open Archive** — a permissionless, open-source knowledge base designed for sovereign learners, memetic builders, and coordination hackers.
 
-Born inside the **Network School**, this archive is a record of the earliest Learnathons, XP systems, and Media Protocols created by the community. It is not a finished product — it is a living, breathing experiment.
+Born inside the **Network School**, this archive documents the earliest Learnathons, XP systems, and Media Protocols created by the community. It is not a finished product — it is a living, breathing experiment.
+
+> 📍 **Frontend:** [Notion Learn Hub – Drop Center](https://deserted-ladybug-896.notion.site/Learn-Hub-Drop-Center-1c9e55b86537806a9cb5cfcaee694987?pvs=74)  
+> 🛠️ **Backend:** This GitHub repository – source of truth, templates, and archives
+
+---
 
 ## 🌱 What’s inside
 
-- 📘 **Learnathons** — full archives of permissionless sprints like Fast.ai and the ZK Learnathon.
+- 📘 **Learnathons** — full archives of permissionless sprints like Fast.ai and ZK.
 - 🎮 **XP Quests** — modular activities structured by topic and difficulty, inspired by RPGs and skill trees.
 - 🧰 **Toolkit** — Notion templates, XP trackers, peer review flows, and more.
 - 🎙️ **Media Protocol** — how to turn learning into narrative, propagation, and sovereign culture.
 
+---
+
 ## 📐 Core Principles
 
-- **Learn-to-Earn**, not Learn-to-Pass.
-- **XP > quizzes** — proof of learn is proof of action.
-- **Open-source first** — permissionless contribution and remixing.
-- **Learning is Coordination** — and coordination is a superpower.
-- **Memetic Propagation** — education is storytelling, with stakes.
+- **Learn-to-Earn**, not Learn-to-Pass  
+- **XP > quizzes** — proof of learn is proof of action  
+- **Open-source first** — permissionless contribution and remixing  
+- **Learning is Coordination** — and coordination is a superpower  
+- **Memetic Propagation** — education is storytelling, with stakes  
+
+---
 
 ## 🤝 Contribute
 
@@ -29,10 +38,12 @@ See [`contribute.md`](./contribute.md) for guidelines on how to:
 - Submit tools or frameworks
 - Propose improvements to the LearnOS
 
+---
+
 ## ⚡ TL;DR
 
 > “Don’t build schools. Build protocols.”  
-> — You, reading this README.
+> — You, reading this README
 
 ---
 
