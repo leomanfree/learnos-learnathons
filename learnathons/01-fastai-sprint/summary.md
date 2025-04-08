@@ -24,8 +24,8 @@ Rather than watching videos passively, learners were invited to:
 
 ## 🔗 Archive & Docs
 
-- 🧠 [Full Notion Learnathon Hub](https://www.notion.so/your-notion-link) *(replace with actual link)*
-- 🧵 [Leo’s Day 1 Thread](https://twitter.com/leomanfree/status/1774876762909241742)
+- 🧠 [Full Notion Learnathon Hub](https://deserted-ladybug-896.notion.site/View-Archive-FastAI-Learnathon-Drop-Center-1cfe55b865378058ad18c8aa28d426b9)(https://deserted-ladybug-896.notion.site/View-Archive-FastAI-Learnathon-Drop-Center-1cfe55b865378058ad18c8aa28d426b9)
+- 🧵 [Leo’s Day 1 Thread](https://x.com/leomanfrini/status/1906717166608548071)
 - 📸 Screenshots and recap (coming soon)
 
 ---
