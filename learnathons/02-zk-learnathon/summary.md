@@ -41,7 +41,19 @@ With the guidance of [**Porter Adams**](https://www.linkedin.com/in/porter-adams
 
 - 🛸 Learnathon runs: **April 13–16, 2025 (72h async sprint)**  
 - 🎓 Watch Porter’s lecture + follow the XP Questboard  
-- 🚀 Submit your progress to earn your **Open Cipher** NFT badge  
+- 🚀 Submit your progress to earn your **Open Cipher** NFT badge
+
+---
+
+## 📊 Postmortem & Hidden Signals
+
+Not every outcome is a submission.  
+Learnathon 2 revealed deep signals, referrals, friction points — and the architecture of resonance.
+
+🪐 Read the full analysis → [03-postmortem-signals.md](./03-postmortem-signals.md)
+
+> *The fire wasn’t in the numbers. It was in the signal.*
+
 
 ---
 
